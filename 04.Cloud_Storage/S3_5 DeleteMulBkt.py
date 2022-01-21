@@ -9,4 +9,4 @@ def deleteBucketObjects(bktName):
 
 buckets=["bkt-19jannikhil","bkt0358nikhil","bkt0525nikhilml1"]
 for bin in buckets:
-    deleteBucketObjects(bn)
+    deleteBucketObjects(bin)
